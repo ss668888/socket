@@ -1,6 +1,6 @@
   
 {
-    "name": "ss668888\socket",
+    "name": "ss668888/socket",
     "description": "This is a service class that implements websocket",
     "keywords": ["webSocket","php", "server"],
     "license": "BSD-3-Clause",
