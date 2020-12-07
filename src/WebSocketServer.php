@@ -1,6 +1,6 @@
 <?php
 
-namespace huaweichenai\webSocket;
+namespace ss668888\socket;
 
 /**
  * WebSocketServer 通用类
